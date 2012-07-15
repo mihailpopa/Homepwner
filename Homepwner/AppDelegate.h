@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "ItemsViewController.h"
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
